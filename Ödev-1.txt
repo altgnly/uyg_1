@@ -1,0 +1,5 @@
+Tanýmladýðýnýz iki adet deðiþkendeki deðerleri çarparak iþlem sonucunu SONUCH ve SONUCL deðiþkenlerine atan programý yazýnýz. 
+
+Sonuç PORTB'ye baðlý olan 8 adet led ile gösterilecektir. 
+Ýþlem sonucu 2 byte olabileceði için hangi byte ýn PORTB'de gösterileceði RA0 pinine baðlý olan buton ile seçilecektir. 
+Butona her basýldýðýnda PORTB'deki deðer SONUCH ise SONUCL, SONUCL ise SONUCH olarak deðiþtirilecektir. 
